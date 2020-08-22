@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "webping": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TARGET": "https://www.google.co.in/",
+        "INTERVAL": "3000",
+        "METHOD": "Head"
+      }
+    }
+  }
+}
